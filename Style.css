@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(73, 38, 9)
+}
+h2 {
+    color: rgb(141, 85, 21)
+}
+h3 {
+    color: rgb(231, 169, 77)
+}
+
+html {
+    background-color: #f5dd72;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ac4307;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(211, 130, 76);
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #a74119;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
