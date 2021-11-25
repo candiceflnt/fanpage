@@ -1,28 +1,28 @@
-h1 {
-    color: rgb(73, 38, 9)
-}
 h2 {
-    color: rgb(141, 85, 21)
+    color: rgb(201, 187, 176)
 }
 h3 {
-    color: rgb(231, 169, 77)
+    color: rgb(212, 207, 201)
+}
+h4 {
+    color: rgb(231, 214, 187)
 }
 
 html {
-    background-color: #f5dd72;
+    background-color: #d3c4b5;
   }
   body {
     width: 600px;
     margin: 0 auto;
-    background-color: #ac4307;
+    background-color: #c4c0bf;
     padding: 0 20px 20px 20px;
     border: 5px solid rgb(211, 130, 76);
   }
 
-  h1 {
+  h2 {
     margin: 0;
     padding: 20px 0;
-    color: #a74119;
+    color: #f0d6cc;
     text-shadow: 3px 3px 1px black;
   }
 
@@ -30,4 +30,8 @@ html {
     display: block;
     margin: 0 auto;
   }
-  
+img {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
