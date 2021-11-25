@@ -35,3 +35,16 @@ img {
   height: 350px;
   object-fit: cover;
 }
+
+img {
+  max-width: 70%
+}
+
+html {
+  font-size: 1em;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
