@@ -1,5 +1,5 @@
 h2 {
-    color: rgb(238, 123, 34)
+    color: rgb(233, 206, 185)
 }
 h3 {
     color: rgb(230, 148, 49)
@@ -22,8 +22,7 @@ html {
   h2 {
     margin: 0;
     padding: 20px 0;
-    color: #f0d6cc;
-    text-shadow: 3px 3px 1px rgb(240, 146, 83);
+    color: #d85e2d;
   }
 
   img {
@@ -36,9 +35,13 @@ img {
   object-fit: cover;
 }
 
+article {
+  margin-bottom: 1em;
+}
+
 @media print {
   body {
-    front-size : 15pt;
+    font-size : 15pt;
   }
 }
 
@@ -53,3 +56,10 @@ img {
   }
 }
 
+
+body
+{
+  margin: auto; /* Pour centrer la page */
+  margin-top: 10px; /* Pour que le haud de la fenetre de navigation ne colle pas */ 
+  margin-bottom: 10px; /* Pour le bas du navigateur */
+}
