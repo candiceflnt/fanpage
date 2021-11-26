@@ -1,20 +1,20 @@
 h2 {
-    color: rgb(201, 187, 176)
+    color: rgb(238, 123, 34)
 }
 h3 {
-    color: rgb(212, 207, 201)
+    color: rgb(230, 148, 49)
 }
 h4 {
-    color: rgb(231, 214, 187)
+    color: rgb(224, 164, 66)
 }
 
 html {
-    background-color: #d3c4b5;
+    background-color: #4e4949;
   }
   body {
     width: 600px;
     margin: 0 auto;
-    background-color: #c4c0bf;
+    background-color: #4e4949;
     padding: 0 20px 20px 20px;
     border: 5px solid rgb(211, 130, 76);
   }
@@ -23,7 +23,7 @@ html {
     margin: 0;
     padding: 20px 0;
     color: #f0d6cc;
-    text-shadow: 3px 3px 1px black;
+    text-shadow: 3px 3px 1px rgb(240, 146, 83);
   }
 
   img {
@@ -44,7 +44,7 @@ img {
 
 @media screen and (width: 500px) {
   body {
-    color: red
+    color: black
   }
 }
 @media screen and (max-width: 400px) {
