@@ -36,15 +36,20 @@ img {
   object-fit: cover;
 }
 
-img {
-  max-width: 70%
+@media print {
+  body {
+    front-size : 15pt;
+  }
 }
 
-html {
-  font-size: 1em;
+@media screen and (width: 500px) {
+  body {
+    color: red
+  }
 }
-
-h2 {
-  font-size: 2rem;
+@media screen and (max-width: 400px) {
+  body {
+    color: orange;
+  }
 }
 
